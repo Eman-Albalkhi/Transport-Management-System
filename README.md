@@ -12,4 +12,6 @@ Additionally, the project includes a component for journeys, which contains info
 This project can be used to facilitate the management of transportation vehicles and improve their efficiency. It is characterized by a suitable software structure 
 
 ### A diagram to represent the connection between classes
-![image](https://github.com/Eman-Albalkhi/Transport-Management-System/assets/52492201/7ac1b93a-f3a4-4474-885b-6a5f91eabd70)
+ ![Capture_1](https://github.com/Eman-Albalkhi/Transport-Management-System/assets/52492201/fd60926e-d4a0-4c5d-be18-c80812757ab7)
+
+  
